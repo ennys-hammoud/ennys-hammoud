@@ -15,7 +15,7 @@ I am motivated, curious, and always ready to take on new challenges. 🎯My goal
 
 ## 📫 Contact Me  
 - 📧 **Email**: ennys.hammoud@laplateforme.io
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ennys-hammoud-377b97334/) 
+- 💼  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ennys-hammoud-377b97334/) 
 
 
 # 📊 GitHub Stats:
