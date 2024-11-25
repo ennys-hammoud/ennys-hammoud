@@ -1,4 +1,3 @@
-![Text alternatif]()
 <img src="istockphoto-1446356706-612x612.jpg" height="100%" width="100%"/>
 # Nice to meet you! 👋
 # 💫 About Me
