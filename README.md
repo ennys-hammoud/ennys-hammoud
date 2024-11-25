@@ -12,12 +12,11 @@ I am currently a first-year web development student at La Plateforme_, a school 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ennys-hammoud-377b97334/) 
+- 💼  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ennys-hammoud-377b97334/) 
 
 ## 📫 Contact Me  
 - 📧 **Email**: ennys.hammoud@laplateforme.io
-- 💼  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ennys-hammoud-377b97334/) 
-
+- 💼  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ennys-hammoud&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
