@@ -1,4 +1,4 @@
-<img src="closeup-keyboard-ultraviolet-light_53876-33763.avif" style="width: 100%; height: 150px;">
+<img src="closeup-keyboard-ultraviolet-light_53876-33763.avif" style="width: 100%; height: 300px;">
 
 
 
