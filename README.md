@@ -1,4 +1,4 @@
-<img src="istockphoto-1446356706-612x612.jpg" height="100%" width="100%"/>
+<img src="closeup-keyboard-ultraviolet-light_53876-33763.avif" height="100%" width="100%"/>
 # Nice to meet you! 👋
 # 💫 About Me
 I am currently a first-year web development student at La Plateforme_, a school specializing in digital careers. Passionate about creating websites and interactive applications, I am developing my skills in HTML, CSS, JavaScript, and soon in modern frameworks. I am motivated, curious, and always ready to take on new challenges. 
