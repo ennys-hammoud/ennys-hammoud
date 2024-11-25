@@ -1,4 +1,5 @@
-<img src="closeup-keyboard-ultraviolet-light_53876-33763.avif" height="30%" width="70%"/>
+<img src="closeup-keyboard-ultraviolet-light_53876-33763.avif" style="width: 100%; height: auto;"/>
+
 
 # Nice to meet you! 👋
 # 💫 About Me
