@@ -5,11 +5,13 @@
 # Nice to meet you! 👋
 # 💫 About Me
 Currently a first-year student at La Plateforme_, a school specializing in digital careers, I am training in web and mobile development. Passionate about creating websites and interactive applications, I am honing my skills in HTML, CSS, Python, and soon modern frameworks.
-
+<hr>
 💡 Motivated, curious, and dynamic, I am always ready to take on new challenges.
 <hr>
 🎯 My goal: to become a versatile developer capable of contributing to ambitious projects in collaborative environments.
+<hr>
 🚀 I am actively seeking an apprenticeship to strengthen my skills and gain professional experience in web development.
+<hr>
 
 
 ## 🛠 Skills
